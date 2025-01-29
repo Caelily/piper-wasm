@@ -21,7 +21,8 @@
     "espeak-ng/espeak-ng-data/voices",
     "index.js",
     "api.js",
-    "piper_worker.js"
+    "piper_worker.js",
+    "expressions.js"
   ],
   "keywords": [
     "wasm",
